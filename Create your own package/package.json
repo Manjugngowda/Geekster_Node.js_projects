@@ -1,0 +1,24 @@
+{
+  "name": "my-first-array-utils",
+  "version": "1.0.0",
+  "description": "A simple JavaScript package providing 10 useful array functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "Find Max",
+    "Find Min",
+    "Sum Array",
+    "Reverse Array",
+    "Find Index",
+    "Contains",
+    "Remove Duplicates",
+    "Sort Array",
+    "Merge Array",
+    "Is Array Empty"
+  ],
+  "author": "Manjunath G N",
+  "license": "ISC"
+}

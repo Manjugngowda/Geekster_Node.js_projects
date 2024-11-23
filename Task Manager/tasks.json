@@ -1,0 +1,10 @@
+[
+  {
+    "task": "playing badminton at 6 AM",
+    "completed": true
+  },
+  {
+    "task": "practicing DSA at 8AM",
+    "completed": false
+  }
+]

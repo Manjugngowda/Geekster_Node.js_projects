@@ -1,0 +1,16 @@
+{
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "day-2 classwork",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "task",
+    "manager"
+  ],
+  "author": "Manjunath G N",
+  "license": "ISC"
+}

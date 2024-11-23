@@ -1,0 +1,15 @@
+{
+  "name": "classwork-binary-search",
+  "version": "1.0.1",
+  "description": "This package contain binary search code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "BinarySearch"
+  ],
+  "author": "Manjunath G N",
+  "license": "ISC"
+}

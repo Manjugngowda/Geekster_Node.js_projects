@@ -14,9 +14,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // it will show UI
-app.get("/get",(request, response)=>{
-    return response.sendFile(import.meta.dirname+"\\index.html");
-})
+// app.get("/get",(request, response)=>{
+//     return response.sendFile(import.meta.dirname+"\\index.html");
+// })
 
 app.post("/submit",(request,response)=>{
     const {name,email,message}=request.body;
